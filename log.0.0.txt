@@ -1,0 +1,8 @@
+Nov 02, 2024 10:20:04 PM main.lesson2.FileNames writeFileNamesToFile
+INFO: Hello
+Nov 02, 2024 10:20:26 PM main.lesson2.FileNames writeFileNamesToFile
+INFO: Hello
+Nov 03, 2024 4:20:46 PM main.lesson2.FileNames writeFileNamesToFile
+INFO: Hello
+Nov 03, 2024 4:21:30 PM main.lesson2.FileNames writeFileNamesToFile
+INFO: Hello

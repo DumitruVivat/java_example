@@ -1,0 +1,13 @@
+log.config
+task5.txt
+out
+README.md
+.gitignore
+example.iml
+people.txt
+directory_contents.txt
+.git
+log.0.0.txt
+output.txt
+.idea
+src
