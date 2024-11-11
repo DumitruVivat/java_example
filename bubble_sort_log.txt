@@ -1,0 +1,14 @@
+Nov 03, 2024 8:09:13 PM main.homework2.sort.Answer logArrayState
+INFO: Iteration 1: 8 4 5 6 7 8 4 9 
+Nov 03, 2024 8:09:14 PM main.homework2.sort.Answer logArrayState
+INFO: Iteration 2: 4 5 6 7 8 4 8 9 
+Nov 03, 2024 8:09:14 PM main.homework2.sort.Answer logArrayState
+INFO: Iteration 3: 4 5 6 7 4 8 8 9 
+Nov 03, 2024 8:09:14 PM main.homework2.sort.Answer logArrayState
+INFO: Iteration 4: 4 5 6 4 7 8 8 9 
+Nov 03, 2024 8:09:14 PM main.homework2.sort.Answer logArrayState
+INFO: Iteration 5: 4 5 4 6 7 8 8 9 
+Nov 03, 2024 8:09:14 PM main.homework2.sort.Answer logArrayState
+INFO: Iteration 6: 4 4 5 6 7 8 8 9 
+Nov 03, 2024 8:09:14 PM main.homework2.sort.Answer logArrayState
+INFO: Iteration 7: 4 4 5 6 7 8 8 9 
